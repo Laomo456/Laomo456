@@ -2,9 +2,9 @@
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=YOUR_NAME&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=STAY%20CURIOUS.%20KEEP%20BUILDING.&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=Laomo&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=STAY%20CURIOUS.%20KEEP%20BUILDING.&descAlignY=58&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hello%2C+World.+I'm+YOUR_NAME.;Curiosity+is+my+default+setting.;Less+scrolling.+More+creating.;Always+learning.+Always+exploring.)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hello%2C+World.+I'm+Laomo.;Curiosity+is+my+default+setting.;Less+scrolling.+More+creating.;Always+learning.+Always+exploring.)](https://github.com/YOUR_USERNAME)
 
 **「 专注程序设计与vibe coding，Cyber_h@cker。 」**
 
