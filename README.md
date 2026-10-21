@@ -18,29 +18,37 @@
 
 <br>
 
-## ◈ / WHO AM I
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=%5B+identity.load()%5D;%3E+Laomo_456;%3E+security+learner;%3E+%E5%8F%AF%E7%88%B1%E8%90%9D%E8%8E%89+%C2%B7+%E4%B8%8D%E4%BC%9A%E5%96%B5%E5%96%B5%E5%8F%AB;%5B+system.ready+%5D" alt="Animated identity terminal" />
+
+<table>
+<tr>
+<td align="left">
 
 ```text
-┌─ profile ──────────────────────────────────────────┐
-│                                                    │
-│   name       Laomo_456                             │
-│   mindset    网安低手 · 可爱萝莉 · 不会喵喵叫         │
-│   learning   security                               │
-│   interests  技术 / 设计 / 以及一切有趣的事         │
-│   motto      Make it happen.                       │
-│                                                    │
-└────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────╮
+│  IDENTITY // LAOMO_456                           │
+├──────────────────────────────────────────────────┤
+│  mindset    网安低手 · 可爱萝莉 · 不会喵喵叫       │
+│  learning   security                              │
+│  interests  技术 / 设计 / 一切有趣的事             │
+│  motto      Make it happen.                       │
+╰──────────────────────────────────────────────────╯
 ```
 
-一个神秘开发者，爱好网络安全与全栈设计
+</td>
+<td width="220" align="center">
 
-欢迎大家关注，学习永无止境，让努力为梦想铺路。
+![Status](https://img.shields.io/badge/%E2%97%89_STATUS-ONLINE-0f172a?style=for-the-badge&labelColor=312e81&color=22d3ee)
 
-<br>
+<sub><b>STATUS: ONLINE</b></sub>
 
+</td>
+</tr>
+</table>
 
-
-<br>
+</div>
 
 ## ◈ / ACTIVITY FEED
 
